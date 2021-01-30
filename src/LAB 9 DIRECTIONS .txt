@@ -1,0 +1,11 @@
+Maiah Pardo
+Lab 9, CIS 36B
+12/4/16
+
+DIRECTIONS FOR LAB 9:
+
+- To Enter Maintenance Mode, type 25 in IDLE mode (during ‘welcome’ screen)
+- Maintenance Mode allows you to refill supplies and shows the stock
+
+- When supplies are low, maintenance mode is automatically entered but requires a passkey. When screen shows “Coffee Machine is running low on supplies and can no longer operate. Enter code to Enter Maintenance Mode: “ The user must type 25 to enter further.
+

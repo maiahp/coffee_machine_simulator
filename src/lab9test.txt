@@ -1,0 +1,234 @@
+Maiah Pardo
+CIS 36B
+Due 12/5/16
+Submitted 12/4/16
+
+
+
+Welcome to Starbucks's Coffee Machine
+What would you like today?
+1 = Coffee
+2 = Hot Chocolate
+3 = Hot Water
+25
+You are now in Maintenance Mode.
+
+0 = Exit to Customer Menu
+1 = Show Supply List
+2 = Fill Supplies
+1
+
+Supplies: 
+Amount of Regular Pike Place: 100 grams
+Amount of Decaf Pike Place: 100 grams
+Amount of Regular Cafe Verona: 100 grams
+Amount of Hot Chocolate Mix: 60 grams
+Amount of Cups: 30
+Amount of Cream Cups: 1
+Amount of Sugar Cubes: 50
+Amount of Sugar Free Sweetener Packets: 50
+
+
+You are now in Maintenance Mode.
+
+0 = Exit to Customer Menu
+1 = Show Supply List
+2 = Fill Supplies
+0
+Welcome to Starbucks's Coffee Machine
+What would you like today?
+1 = Coffee
+2 = Hot Chocolate
+3 = Hot Water
+1
+Please Choose Your Coffee:
+0 = cancel
+1 = Regular Pike Place
+2 = Decaf Pike Place
+3 = Regular Cafe Verona
+4 = Mix Two
+4
+Which two would you like to mix?
+0 = cancel
+1 = Regular and Decaf Pike Place
+2 = Regular Pike Place and Regular Cafe Verona
+3 = Decaf Pike Place and Regular Cafe Verona
+2
+Please Choose Your Condiments: 
+0 = cancel
+1 = Sugar
+2 = Sugar Free Sweetener
+3 = Cream
+4 = Sugar and Cream
+5 = Sugar Free Sweetener and Cream
+6 = none
+3
+Dispense Coffee? 
+0 = Cancel
+1 = Dispense Coffee
+1
+
+Dispensing Coffee Selection
+
+Done
+
+
+Welcome to Starbucks's Coffee Machine
+What would you like today?
+1 = Coffee
+2 = Hot Chocolate
+3 = Hot Water
+1
+Coffee Machine is running low on supplies and can no longer operate.
+Enter code to Enter Maintenance Mode: 0
+Coffee Machine is running low on supplies and can no longer operate.
+Enter code to Enter Maintenance Mode: 25
+You are now in Maintenance Mode.
+
+0 = Exit to Customer Menu
+1 = Show Supply List
+2 = Fill Supplies
+1
+
+Supplies: 
+Amount of Regular Pike Place: 95 grams
+Amount of Decaf Pike Place: 100 grams
+Amount of Regular Cafe Verona: 95 grams
+Amount of Hot Chocolate Mix: 60 grams
+Amount of Cups: 29
+Amount of Cream Cups: 0
+Amount of Sugar Cubes: 50
+Amount of Sugar Free Sweetener Packets: 50
+
+
+You are now in Maintenance Mode.
+
+0 = Exit to Customer Menu
+1 = Show Supply List
+2 = Fill Supplies
+2
+1 = Cups
+2 = Sugar Cubes
+3 = Sugar Free Sweetener Packets
+4 = Cream Cups
+5 = Hot Chocolate Powder(grams)
+6 = Regular Cafe Verona
+7 = Regular Pike Place
+8 = Decaf Pike Place
+
+Which would you like to fill: 2
+Amount to be filled: 1
+
+Success
+
+
+You are now in Maintenance Mode.
+
+0 = Exit to Customer Menu
+1 = Show Supply List
+2 = Fill Supplies
+0
+Welcome to Starbucks's Coffee Machine
+What would you like today?
+1 = Coffee
+2 = Hot Chocolate
+3 = Hot Water
+1
+Coffee Machine is running low on supplies and can no longer operate.
+Enter code to Enter Maintenance Mode: 25
+You are now in Maintenance Mode.
+
+0 = Exit to Customer Menu
+1 = Show Supply List
+2 = Fill Supplies
+1
+
+Supplies: 
+Amount of Regular Pike Place: 95 grams
+Amount of Decaf Pike Place: 100 grams
+Amount of Regular Cafe Verona: 95 grams
+Amount of Hot Chocolate Mix: 60 grams
+Amount of Cups: 29
+Amount of Cream Cups: 0
+Amount of Sugar Cubes: 51
+Amount of Sugar Free Sweetener Packets: 50
+
+
+You are now in Maintenance Mode.
+
+0 = Exit to Customer Menu
+1 = Show Supply List
+2 = Fill Supplies
+2
+1 = Cups
+2 = Sugar Cubes
+3 = Sugar Free Sweetener Packets
+4 = Cream Cups
+5 = Hot Chocolate Powder(grams)
+6 = Regular Cafe Verona
+7 = Regular Pike Place
+8 = Decaf Pike Place
+
+Which would you like to fill: 4
+Amount to be filled: 20
+
+Success
+
+
+You are now in Maintenance Mode.
+
+0 = Exit to Customer Menu
+1 = Show Supply List
+2 = Fill Supplies
+0
+Welcome to Starbucks's Coffee Machine
+What would you like today?
+1 = Coffee
+2 = Hot Chocolate
+3 = Hot Water
+2
+Dispense Hot Chocolate?
+0 = Cancel
+1 = Dispense Hot Chocolate
+1
+
+Dispensing Hot Chocolate
+
+Done.
+
+
+Welcome to Starbucks's Coffee Machine
+What would you like today?
+1 = Coffee
+2 = Hot Chocolate
+3 = Hot Water
+25
+You are now in Maintenance Mode.
+
+0 = Exit to Customer Menu
+1 = Show Supply List
+2 = Fill Supplies
+1
+
+Supplies: 
+Amount of Regular Pike Place: 95 grams
+Amount of Decaf Pike Place: 100 grams
+Amount of Regular Cafe Verona: 95 grams
+Amount of Hot Chocolate Mix: 55 grams
+Amount of Cups: 28
+Amount of Cream Cups: 20
+Amount of Sugar Cubes: 51
+Amount of Sugar Free Sweetener Packets: 50
+
+
+You are now in Maintenance Mode.
+
+0 = Exit to Customer Menu
+1 = Show Supply List
+2 = Fill Supplies
+0
+Welcome to Starbucks's Coffee Machine
+What would you like today?
+1 = Coffee
+2 = Hot Chocolate
+3 = Hot Water
